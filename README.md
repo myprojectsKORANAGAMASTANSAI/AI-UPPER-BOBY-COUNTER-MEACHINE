@@ -5,7 +5,7 @@ real-time. This tool is ideal for various applications such as crowd monitoring,
 fitness tracking, and event management, providing real-time data insights and reporting.
 
 Table of Contents:-
-1.Project Overview
+1.Project Overview 
 2.System Architecture
 3.Features
 4.Installation
