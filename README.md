@@ -33,6 +33,8 @@ Input Module: Captures input from cameras or other imaging sensors.
 
 Pre-processing Unit: Applies image processing techniques to enhance detection accuracy.
 
+![Food Ordering Feeback](https://i.ibb.co/3WvVpVw/Screenshot-2024-11-06-222149.png)
+
 Detection/Classification Model: Uses a trained AI model to detect upper bodies.
 
 Counting Module: Implements logic to accurately count detected individuals.
@@ -147,3 +149,6 @@ Developed by: KORA NAGA MASTAN SAI  (AI-UPPER-BOBY-COUNTER-MEACHINE)
 
 koranagamsthsnsai997@gmail.com
 
+## FINAL OUTPUT  
+
+![Food Ordering Feeback](https://github.com/myprojectsKORANAGAMASTANSAI/AI-UPPER-BOBY-COUNTER-MEACHINE/blob/main/final%20%20output.png)
