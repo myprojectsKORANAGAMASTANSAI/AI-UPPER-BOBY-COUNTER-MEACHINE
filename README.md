@@ -1,4 +1,4 @@
-AI Upper Body Counter Machine
+#AI Upper Body Counter Machine
 The AI Upper Body Counter Machine is a cutting-edge solution that utilizes 
 computer vision and machine learning to detect and count upper bodies in 
 real-time. This tool is ideal for various applications such as crowd monitoring,
